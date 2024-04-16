@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hey im da funy skeleton
+I am a programming student from France with 2 years of learning. I am currently interested in Videogames Development and FNF Moding. I am currently learning Haxe, Godot and Python! 
 
-<!--
-**DeadlyneCode/DeadlyneCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+ <img src="https://img.shields.io/github/followers/JloorDev?color=2396ED&label=Followers" alt="JloorDev" />  
+ <img src="https://img.shields.io/github/stars/JloorDev?style=flat&color=2396ED" />  
+</p>
 
-Here are some ideas to get you started:
+## Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,github,godot,haxe,haxeflixel,unity,gamemakerstudio,=13" />
+  </a>
+</p>
+
+## Contact me! 
+
+<p > 
+ <a href="https://twitter.com/GamerJloor">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+ 
+  <a href="https://discord.gg/VseWbHCgRJ">
+   <img src="https://skillicons.dev/icons?i=discord" />
+  </a> 
+</p>
+
+## 😛
+![Hi Lunarcleint](https://media.discordapp.net/attachments/928015549538140172/1016454192702955580/unknown.gif)
