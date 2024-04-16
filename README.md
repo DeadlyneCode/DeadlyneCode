@@ -10,7 +10,7 @@ I am a programming student from France with 2 years of learning. I am currently 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,godot,haxe,haxeflixel,py=13" />
+    <img src="https://skillicons.dev/icons?i=discord,github,godot,haxe,haxeflixel,py" />
   </a>
 </p>
 
