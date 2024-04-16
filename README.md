@@ -10,7 +10,7 @@ I am a programming student from France with 2 years of learning. I am currently 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,godot,haxe,haxeflixel,python=13" />
+    <img src="https://skillicons.dev/icons?i=discord,github,godot,haxe,haxeflixel,py=13" />
   </a>
 </p>
 
@@ -25,6 +25,3 @@ I am a programming student from France with 2 years of learning. I am currently 
    <img src="https://skillicons.dev/icons?i=discord" />
   </a> 
 </p>
-
-## 😛
-![Hi Lunarcleint](https://media.discordapp.net/attachments/928015549538140172/1016454192702955580/unknown.gif)
