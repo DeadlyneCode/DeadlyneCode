@@ -17,11 +17,11 @@ I am a programming student from France with 2 years of learning. I am currently 
 ## Contact me! 
 
 <p > 
- <a href="https://twitter.com/GamerJloor">
+ <a href="https://twitter.com/DeadlyneUwU">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
  
-  <a href="https://discord.gg/VseWbHCgRJ">
+  <a href="https://discord.gg/xt6qGDNxyC">
    <img src="https://skillicons.dev/icons?i=discord" />
   </a> 
 </p>
